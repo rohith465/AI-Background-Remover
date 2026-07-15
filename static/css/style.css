@@ -1,0 +1,93 @@
+body{
+
+font-family: Arial, Helvetica, sans-serif;
+
+background:#f5f5f5;
+
+margin:0;
+
+padding:0;
+
+}
+
+.hero{
+
+background:linear-gradient(135deg,#007BFF,#6610f2);
+
+color:white;
+
+padding:100px 20px;
+
+text-align:center;
+
+}
+
+.hero h1{
+
+font-size:55px;
+
+font-weight:bold;
+
+}
+
+.hero p{
+
+font-size:22px;
+
+margin-top:20px;
+
+margin-bottom:30px;
+
+}
+
+.btn{
+
+padding:12px 30px;
+
+font-size:20px;
+
+}
+
+footer{
+
+background:#212529;
+
+color:white;
+
+text-align:center;
+
+padding:20px;
+
+margin-top:80px;
+
+}
+.card{
+    border:none;
+    border-radius:15px;
+}
+
+.card-body{
+    padding:40px;
+}
+
+.form-control{
+    height:45px;
+}
+
+.btn{
+    height:45px;
+    font-size:18px;
+}
+.card{
+    border-radius:15px;
+}
+
+#previewImage{
+
+max-height:350px;
+
+margin-top:20px;
+
+object-fit:contain;
+
+}

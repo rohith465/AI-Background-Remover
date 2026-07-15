@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Uploaded files
+uploads/
+
+# Output files
+output/
